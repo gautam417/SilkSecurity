@@ -32,6 +32,8 @@ The script will connect to the configured MongoDB instance, fetch data from Qual
 
 The script generates two bar charts: one showing the distribution of operating systems, and another showing the hardware manufacturer distribution. These charts will be saved locally and can be used for reports and analytics purposes for scanned hosts data.
 
+![deduped_hosts_visualization](https://github.com/gautam417/SilkSecurity/assets/31454880/03d4d9fb-c25d-4e6c-8a8c-7bea6fb698b2)
+
 ## Configuration
 
 Before running the script, make sure to configure the following:
